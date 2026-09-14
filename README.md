@@ -1,6 +1,6 @@
 # Ayran Studio website
 
-Zero-dependency static website for Ayran Studio and Sip&Pop. It contains English, Turkish, and Spanish landing pages and privacy policies.
+Zero-dependency static website for Ayran Studio and Sip&Pop. It contains English, Turkish, and Spanish landing pages and game-specific privacy policies. Sip&Pop uses `/sip-and-pop/privacy/`, with localized equivalents under `/tr/` and `/es/`.
 
 ## Preview
 
